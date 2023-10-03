@@ -1,0 +1,66 @@
+body{ 
+    margin: 0%;
+    text-align: center;
+    
+}
+
+h1{
+    margin-top: 100px; /* ระยะห่างจากด้านบนของเว็บ 100px */
+    
+    margin: 50px 0 auto 0 auto;
+    font-family: 'Mooli', sans-serif;
+    font-size: 2em; /* 1em = 100% = 16px */
+}
+
+h3{
+    width: 60%;
+    margin: 0 auto 0 auto;
+    font-family: 'Mooli', sans-serif;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+/* class Selector */
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-container{
+    background-color: rgb(53, 162, 159);
+    padding-top: 100px;
+    position: relative;
+}
+
+.top-cloud {
+    top: 50px; /* ระยะห่างจากด้านบนของเว็บ 50px */
+    right: 300px; /* ระยะห่างจากด้านขวาของเว็บ 300px */
+  }
+
+.underline{
+    text-decoration: underline;
+}
+.profile{
+    background-color: blanchedalmond;
+    padding: 100px;
+}
+.profile-img{
+    border-radius: 50%;
+}
+
+.skill-row{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.java-img{
+    width: 15%;
+}
+
+.AI-img{
+    width: 15%;
+}

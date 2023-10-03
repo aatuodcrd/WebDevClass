@@ -1,0 +1,54 @@
+.Header{
+    background-color: #8ec6ff;
+}
+
+.Attention{
+    background-color: #99ccff;
+}
+
+.Experience{
+    background-color: #a3d1ff;
+}
+
+.Skill{
+    background-color: #add6ff;
+}
+
+.Work{
+    background-color: #b7dbff;
+}
+
+.HeadTable1{
+    background-color: #333;
+    color: #fff;
+}
+
+.td1{
+    border:solid #333 1px;
+}
+
+.profile{
+    border-radius: 50%;
+    border: solid 5px black;
+}
+
+hr{
+    width: 70%;
+    border-style: dotted none none;
+    border-width: 2px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.Toppic{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.table{
+    margin-bottom: 10px;
+}
+
+.Photo01{
+    width: 300px;
+}
